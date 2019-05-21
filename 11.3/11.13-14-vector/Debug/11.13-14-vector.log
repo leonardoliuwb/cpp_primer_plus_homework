@@ -1,0 +1,6 @@
+﻿D:\Visual Studio 2017 Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(11.13-14-15-vector.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  randwalk.cpp
+e:\自主学习\c++\my project\homework\11.3\11.13-14-vector\randwalk.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\自主学习\c++\my project\homework\11.3\11.13-14-vector\randwalk.cpp(43): warning C4018: “>”: 有符号/无符号不匹配
+e:\自主学习\c++\my project\homework\11.3\11.13-14-vector\randwalk.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+  11.13-14-vector.vcxproj -> E:\自主学习\C++\My Project\homework\11.3\Debug\11.3.exe

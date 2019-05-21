@@ -1,0 +1,3 @@
+﻿  3.7.cpp
+f:\c++\my project\homework\3.7\3.7\3.7.cpp(20): warning C4305: “初始化”: 从“double”到“float”截断
+  3.7.vcxproj -> F:\C++\My Project\homework\3.7\Debug\3.7.exe

@@ -1,0 +1,5 @@
+﻿  usemove.cpp
+  move.cpp
+  正在生成代码...
+e:\自主学习\c++\my project\homework\10.6\10.6\move.cpp(24): warning C4172: 返回局部变量或临时变量的地址: n
+  10.6.vcxproj -> E:\自主学习\C++\My Project\homework\10.6\Debug\10.6.exe

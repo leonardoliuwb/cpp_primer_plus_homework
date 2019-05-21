@@ -1,0 +1,4 @@
+﻿D:\Visual Studio 2017 Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(11.16-17-18-stone.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stonewt.cpp
+e:\自主学习\c++\my project\homework\11.6\11.16-17-18-stone\stonewt.cpp(26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  11.16-17-18-stone.vcxproj -> E:\自主学习\C++\My Project\homework\11.6\Debug\11.6.exe

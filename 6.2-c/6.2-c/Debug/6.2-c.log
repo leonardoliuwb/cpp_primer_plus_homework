@@ -1,0 +1,5 @@
+﻿  6.2-c.cpp
+e:\自主学习\c++\my project\homework\6.2-c\6.2-c\6.2-c.cpp(10): warning C4101: “len”: 未引用的局部变量
+e:\自主学习\c++\my project\homework\6.2-c\6.2-c\6.2-c.cpp(14): warning C4101: “line”: 未引用的局部变量
+e:\自主学习\c++\my project\homework\6.2-c\6.2-c\6.2-c.cpp(10): warning C4101: “j”: 未引用的局部变量
+  6.2-c.vcxproj -> E:\自主学习\C++\My Project\homework\6.2-c\Debug\6.2-c.exe

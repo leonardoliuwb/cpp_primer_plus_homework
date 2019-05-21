@@ -1,0 +1,19 @@
+﻿“6.9.exe”(Win32): 已加载“F:\C++\My Project\homework\6.9\Debug\6.9.exe”。已加载符号。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\apphelp.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“6.9.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+线程 0x1ad4 已退出，返回值为 0 (0x0)。
+线程 0x2238 已退出，返回值为 0 (0x0)。
+线程 0x1f20 已退出，返回值为 0 (0x0)。
+程序“[8536] 6.9.exe”已退出，返回值为 0 (0x0)。

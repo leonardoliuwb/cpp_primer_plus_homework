@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  4.6.cpp
+e:\自主学习\c++\my project\homework\4.6\4.6\4.6.cpp(23): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\自主学习\c++\my project\homework\4.6\4.6\4.6.cpp(23): warning C4305: “初始化”: 从“double”到“float”截断
+  4.6.vcxproj -> E:\自主学习\C++\My Project\homework\4.6\Debug\4.6.exe

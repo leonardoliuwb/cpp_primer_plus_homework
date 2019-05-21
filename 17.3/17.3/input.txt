@@ -1,0 +1,4 @@
+This is the input file.
+The task is to copy this file's contents, and paste into the output file.
+Let's try our best to do this.
+Let's go!
